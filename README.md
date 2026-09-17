@@ -6,6 +6,7 @@ A Python-based Artificial Intelligence and Computer Vision project that detects 
 The application captures live video through a webcam, detects faces, analyzes facial expressions, and displays the dominant emotion along with its confidence score. Emotion data is logged periodically and exported to an Excel file when the application is closed.
 
 **✨ Features**
+
  Real-time webcam video capture.
  Facial emotion detection using FER.
  Face detection using MTCNN.
