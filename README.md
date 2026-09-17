@@ -68,22 +68,3 @@ Neutral Score.
 
 These records can be opened in Microsoft Excel for further analysis of emotional patterns and trends.
 
-**🎯 Applications**
-
-This project demonstrates the use of AI and Computer Vision in areas such as:
-
-Human-Computer Interaction, 
-Educational research, 
-Emotion analysis, 
-Customer experience research, 
-Behavioral research, 
-AI-based monitoring systems.
-
-**🔮 Future Scope**
-
-Support multiple face detection and emotion tracking.
-Develop a web-based and mobile application.
-Add graphical dashboards for emotion analytics.
-Integrate cloud storage for reports.
-Improve recognition using advanced deep learning models.
-Combine facial emotion recognition with speech analysis.
