@@ -8,12 +8,19 @@ The application captures live video through a webcam, detects faces, analyzes fa
 **✨ Features**
 
  Real-time webcam video capture. 
+ 
  Facial emotion detection using FER. 
+ 
  Face detection using MTCNN. 
+ 
  Displays the dominant emotion and confidence score. 
+ 
  Draws a bounding box around the detected face. 
+ 
  Records emotion data with timestamps. 
+ 
  Automatically generates Excel reports. 
+ 
  Simple Python-based implementation. 
 
 **🧠 Emotions Detected**
@@ -31,17 +38,11 @@ Neutral.
 **🛠️ Technologies Used**
 
 1.Technology	Purpose. 
-
 2.Python	Programming language. 
-
 3.OpenCV	Webcam access and image processing. 
-
 4.FER	Facial emotion recognition. 
-
 5.MTCNN	Face detection. 
-
 6.Pandas	Data storage and processing. 
-
 7.OpenPyXL	Excel report generation.
 
 **⚙️ How It Works**
